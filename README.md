@@ -9,4 +9,4 @@ This is Solo Team Capstone project as a requirements for the Data Science Bootca
 --->
 
 
-<i> Sponsored by: SDA & Coding-Dojo </i>
+<i> Visit us: http://www.solo-team.online/ </i>
